@@ -2,11 +2,12 @@
 ## Title: RaidRoll
 ## Notes: Ninja proof method of RaidRolling.
 ## Author: Slakah
+## Maintainer:  Aurae @ Ravencrest (US)
 ## Version: 1.0
 ## X-Category:  Raid
-
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
+## Original download: http://www.wowinterface.com/downloads/info16446-RaidRoll.html
 
 Localisation.lua
 RaidRoll.lua
