@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: RaidRoll
+## Notes: Ninja proof method of RaidRolling.
+## Author: Slakah
+## Version: 1.0
+## X-Category:  Raid
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+Localisation.lua
+RaidRoll.lua
