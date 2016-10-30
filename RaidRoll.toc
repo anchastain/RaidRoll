@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: RaidRoll
 ## Notes: Ninja proof method of RaidRolling.
 ## Author: Slakah
